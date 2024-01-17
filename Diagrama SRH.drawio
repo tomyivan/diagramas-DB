@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T14:03:52.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="x6UhAQYeuCmLFtp5U-vj" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T14:15:51.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bCqnFKtErW5v3E2hHzo5" version="22.1.20" type="github">
   <diagram name="Página-1" id="a3qc_uufavQ5hrOdgnRi">
     <mxGraphModel dx="954" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -27,6 +27,18 @@
         </mxCell>
         <mxCell id="QjOwqH0YNn0z94c2UW5D-7" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=south;" vertex="1" parent="1">
           <mxGeometry x="251.25" y="110" width="257.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="QjOwqH0YNn0z94c2UW5D-11" value="" style="endArrow=circle;html=1;rounded=0;strokeColor=default;shadow=0;startFill=0;fillOpacity=100;endFill=0;snapToPoint=1;fixDash=1;metaEdit=1;backgroundOutline=1;comic=0;jiggle=1;enumerate=0;orthogonal=0;strokeOpacity=100;arcSize=210;startArrow=none;strokeWidth=1;startSize=0;endSize=3;" edge="1" parent="1" source="QjOwqH0YNn0z94c2UW5D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="60" as="sourcePoint" />
+            <mxPoint x="360" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjOwqH0YNn0z94c2UW5D-13" value="" style="endArrow=none;html=1;rounded=0;shadow=0;startFill=1;fillOpacity=100;endFill=1;snapToPoint=1;fixDash=1;metaEdit=1;backgroundOutline=1;comic=0;jiggle=1;enumerate=0;orthogonal=0;strokeOpacity=100;arcSize=210;startArrow=oval;strokeWidth=1;startSize=9;" edge="1" parent="1" target="QjOwqH0YNn0z94c2UW5D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="30" as="sourcePoint" />
+            <mxPoint x="510" y="60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
