@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T13:59:50.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.20" etag="VuXhYNIJ7DtJrIccZ86y" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T14:03:52.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="x6UhAQYeuCmLFtp5U-vj" version="22.1.20" type="github">
   <diagram name="Página-1" id="a3qc_uufavQ5hrOdgnRi">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QjOwqH0YNn0z94c2UW5D-2" value="CONTRATOS" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjOwqH0YNn0z94c2UW5D-3" value="CONTRATA_INDIFINIDO" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjOwqH0YNn0z94c2UW5D-4" value="CONTRATA_FIJ_CIV" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QjOwqH0YNn0z94c2UW5D-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="QjOwqH0YNn0z94c2UW5D-3" target="QjOwqH0YNn0z94c2UW5D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjOwqH0YNn0z94c2UW5D-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="QjOwqH0YNn0z94c2UW5D-4" target="QjOwqH0YNn0z94c2UW5D-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="497" y="200" as="sourcePoint" />
+            <mxPoint x="398" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QjOwqH0YNn0z94c2UW5D-7" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="251.25" y="110" width="257.5" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
