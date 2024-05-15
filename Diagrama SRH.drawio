@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T20:43:38.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="1FXOwI_j6DXHWoxEH_IC" version="24.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-15T20:10:13.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0Ai0RsnRdYF-u7J1WtGZ" version="24.2.8" type="github" pages="4">
   <diagram name="Página-1" id="a3qc_uufavQ5hrOdgnRi">
     <mxGraphModel dx="2021" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1652,7 +1652,7 @@
           <mxGeometry x="422.89" y="166" width="102.25" height="22" as="geometry" />
         </mxCell>
         <mxCell id="oOMjerv9uBRiFwg3KEz4-2" value="fecha_ingreso" style="whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="133" width="90" height="20" as="geometry" />
+          <mxGeometry x="301" y="138" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oOMjerv9uBRiFwg3KEz4-3" value="sueldo" style="whiteSpace=wrap;html=1;align=center;strokeColor=none;fillColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="621" y="193.75" width="66" height="20" as="geometry" />
@@ -2427,7 +2427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Kg8sAdoNVowOCprM1HDc" name="Página-4">
-    <mxGraphModel dx="2233" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2021" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
